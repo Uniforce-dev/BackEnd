@@ -4,6 +4,7 @@ Partie Back avec API et Base de données
 
 Pré requis : 
  - Avoir un mysql de lancé (Wamp, Xamp, Docker, etc...) 
+ - Avoir Composer d'installé
  - Installer le CLI de Symfony : https://symfony.com/download 
  
 Ensuite vous pouvez cloner le projet dans le dossier de votre choix. 
